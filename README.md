@@ -9,3 +9,4 @@
 - Data Privacy Manager: Fournit des informations détaillées sur les politiques de confidentialité des sites web visités et alerte l'utilisateur des permissions particulières qui pourraient compromettre la confidentialité de leurs données.
 - Editeur de CSS en direct : Une extension pour les développeurs web permettant de modifier le CSS de n'importe quelle page en temps réel et de voir les changements immédiatement, avec la possibilité de sauvegarder les modifications localement ou de les exporter comme un fichier CSS.
 - tracker de temps d'écran et quel contenu
+- Organisateur d'onglets avancé : Une extension qui aide à gérer efficacement de nombreux onglets. Elle pourrait offrir des fonctionnalités telles que des groupes d'onglets personnalisables, des rappels pour revoir des onglets sauvegardés, et des suggestions intelligentes pour fermer les onglets non utilisés.
