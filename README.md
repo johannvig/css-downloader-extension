@@ -7,4 +7,4 @@
 - Custom Night Mode: Permet aux utilisateurs de personnaliser le thème sombre des sites web, ajustant les couleurs et la luminosité pour réduire la fatigue oculaire pendant la navigation nocturne.
 - Finance Tracker: Une extension qui aide à suivre les dépenses en ligne et les achats en extrayant automatiquement les détails des paiements des pages de confirmation et en les ajoutant à un gestionnaire de finances personnel.
 - Data Privacy Manager: Fournit des informations détaillées sur les politiques de confidentialité des sites web visités et alerte l'utilisateur des permissions particulières qui pourraient compromettre la confidentialité de leurs données.
-
+- Editeur de CSS en direct : Une extension pour les développeurs web permettant de modifier le CSS de n'importe quelle page en temps réel et de voir les changements immédiatement, avec la possibilité de sauvegarder les modifications localement ou de les exporter comme un fichier CSS.
