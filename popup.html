@@ -5,12 +5,15 @@
   <style>
     body { font-family: Arial, sans-serif; }
     button { margin: 10px; padding: 10px; }
+    textarea { width: 100%; height: 200px; margin-top: 10px; }
   </style>
 </head>
 <body>
   <h1>CSS Downloader</h1>
-  <button id="downloadModifiedCss">Download Modified CSS</button>
-  <button id="downloadAllCss">Download All CSS</button>
+  <button id="loadModifiedCss">Load Modified CSS</button>
+  <button id="loadAllCss">Load All CSS</button>
+  <textarea id="cssContent" readonly></textarea>
+  <button id="downloadCss" style="display:none;">Download CSS</button>
   <script src="popup.js"></script>
 </body>
 </html>
