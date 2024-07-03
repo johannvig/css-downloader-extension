@@ -1,4 +1,4 @@
-# chrome-extension
+# css-downloader-extension
 
 
 - Smart Highlighter: Permet aux utilisateurs de surligner des textes sur n'importe quelle page web et de les sauvegarder dans le cloud. Offre des options pour organiser les surlignages par catégorie, partager avec d'autres, et réviser sur différents appareils.
