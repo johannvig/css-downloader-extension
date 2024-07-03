@@ -37,6 +37,10 @@ CSS Downloader est une extension Chrome qui permet de visualiser et de télécha
 
 4. Cliquez sur le bouton **Download CSS** pour télécharger les styles affichés dans la zone de texte.
 
-## Structure du Projet
+### Tester l'extension
+
+1. Ouvrez une page web et modifiez les styles inline d'éléments via les outils de développement (F12).
+2. Utilisez les boutons de la popup pour charger et visualiser les styles CSS.
+3. Téléchargez le CSS en cliquant sur le bouton **Download CSS**.
 
 
